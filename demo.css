@@ -5,12 +5,7 @@
 	box-sizing: border-box;
 }
 
-body {
-	font-family: 'Roboto', 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, sans-serif;
-	color: #909090;
-	background: #111;
-}
-
+body 
 a {
 	text-decoration: none;
 	color: #909090;
